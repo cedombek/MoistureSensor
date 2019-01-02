@@ -1,3 +1,3 @@
-# MoistureSensor
-# Source code for carniverous plant moisture sensor
-# Replaced code that was here erroneously
+## MoistureSensor
+### Source code for carniverous plant moisture sensor
+#### Removed code that was here erroneously
